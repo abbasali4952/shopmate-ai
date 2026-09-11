@@ -1,0 +1,27 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local tooling and editor files
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.tmp
+*.swp
+
+# Python tooling that may be used locally
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local service output
+logs/
