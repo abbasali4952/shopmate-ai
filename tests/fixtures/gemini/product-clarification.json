@@ -1,0 +1,6 @@
+{
+  "kind": "clarification",
+  "text": "What gender, size, and material would you prefer for your jeans?",
+  "requestedCriteria": ["gender", "size", "material"],
+  "normalizedCriteria": { "category": "Jeans" }
+}

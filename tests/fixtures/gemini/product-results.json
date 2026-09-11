@@ -1,0 +1,6 @@
+{
+  "kind": "product-results",
+  "text": "I found a jeans option that fits those details.",
+  "normalizedCriteria": { "category": "Jeans", "gender": "Women", "size": "M", "material": "Denim" },
+  "candidateProductIds": ["jeans-ecru-wide"]
+}
