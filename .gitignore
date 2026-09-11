@@ -25,3 +25,8 @@ __pycache__/
 
 # Local service output
 logs/
+
+# Browser and end-to-end test artifacts
+.playwright-mcp/
+test-results/
+*.png
